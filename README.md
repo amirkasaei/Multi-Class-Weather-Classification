@@ -9,7 +9,7 @@
 - What we need to do is to design and implement deep convolutional neural networks to predict the type of weather. So our problem will be a 4-class image classification.
 
 ## Implemented Models
-- Simple Conoelutional Neural Network  
+- Simple Convolutional Neural Network  
 - [Resnet Model](https://arxiv.org/pdf/1512.03385.pdf)
 - [Inception Model v1](https://arxiv.org/pdf/1409.4842v1.pdf)
 
